@@ -1,4 +1,3 @@
--- OBFUSCATED BY j_1770
 -- aihub v1, my first hub.
 
 local v0 = string.char;
